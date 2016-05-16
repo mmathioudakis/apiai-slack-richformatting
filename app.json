@@ -1,7 +1,7 @@
 {
-  "name": "API.AI webhook demonstration",
-  "description": "API.AI webhook demonstration",
-  "repository": "https://github.com/xVir/apiai-slack-richformatting",
-  "logo": "http://xvir.github.io/img/apiai.png",
-  "keywords": ["api.ai", "natural language"]
+  "name": "API.AI Chefbot",
+  "description": "Chefbot with api.ai",
+  "repository": "https://github.com/mmathioudakis/apiai-slack-richformatting",
+  "logo": "",
+  "keywords": ["api.ai"]
 }
